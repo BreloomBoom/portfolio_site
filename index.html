@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ronald Chiang - SWE</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="images/breloom.png">
+    <script src="https://kit.fontawesome.com/bd3ba92590.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <img src="images/breloom.png" width="160px">
+    <div class="dropdown visible" id="one" onclick="dropdown1()">About Me</div>
+    <div class="link visible" id="link" onclick="window.location.href='resume.pdf';">Resume</div>
+    <div class="dropdown visible" id="two" onclick="dropdown2()">Project 1 (Working on it)</div>
+    <div class="dropdown visible" id="three" onclick="dropdown3()">Project 2 (Working on it)</div>
+    <div class="dropdown visible" id="four" onclick="dropdown4()">Project 3 (Working on it)</div>
+    <div class="info hidden" id="about">
+        Hey there!<br><br>
+        I'm Ronald, a second year studying Computer Science and Mathematics at UNSW.<br><br>
+        I love learning, teaching and trying new things :D
+    </div>
+    <div class="info hidden" id="proj1">
+        Project 1
+    </div>
+    <div class="info hidden" id="proj2">
+        Project 2
+    </div>
+    <div class="info hidden" id="proj3">
+        Project 3
+    </div>
+    <div class="wrapper">
+        <div class="button" onclick="window.location.href='https://github.com/BreloomBoom';">
+            <div class="icon">
+                <i class="fa-brands fa-github"></i>
+            </div>
+            <span>GitHub</span>
+        </div>
+        <div class="button" onclick="window.location.href='https://www.linkedin.com/in/ronaldchiang/';">
+            <div class="icon">
+                <i class="fa-brands fa-linkedin"></i>
+            </div>
+            <span>LinkedIn</span>
+        </div>
+    </div>
+    <script src="js/dropdowns.js"></script>
+</body>
+</html>
