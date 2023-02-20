@@ -103,7 +103,6 @@ async function playConway() {
 
     grid = newGrid;
     fillGrid();
-    console.log('sada');
     await delay(300);
     playConway();
 }
