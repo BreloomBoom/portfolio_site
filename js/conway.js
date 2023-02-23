@@ -77,7 +77,13 @@ function delay(time) {
 }
 
 function startstop() {
+    const button = document.querySelector('button');
     stopped = !stopped;
+    if (stopped) {
+        button.textContent = 'Start';
+    } else {
+        button.textContent = 'Stop';
+    }
 }
 
 async function playConway() {
