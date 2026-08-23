@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+    --color-bg: #0f1210;
+    --color-text: #f3f6f2;
+    --color-highlight: #272727;
+    --color-accent: #3fcc3f;
+
+    --font-inter: 'Inter', sans-serif;
+}
+
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    html, body {
+        @apply bg-bg text-text min-h-screen font-inter;
+    }
+
+    body {
+        background-image: radial-gradient(
+            60% 32rem at 50% -8rem,
+            color-mix(in srgb, var(--color-accent) 10%, transparent),
+            transparent
+        );
+        background-repeat: no-repeat;
+    }
+
+    ::selection {
+        background-color: var(--color-accent);
+        color: var(--color-bg);
+    }
+}
