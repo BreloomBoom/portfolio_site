@@ -7,7 +7,7 @@
             I am studying an MPhil under <a
                 href="https://sasharubin.github.io/"
                 class="text-accent hover:underline transition-colors"
-            >Sasha Rubin</a> at the University of Sydney. My current topic is on synthesising strategies for games on graphs. Previously, I studied model comparison games and expressive completeness under <a
+            >Sasha Rubin</a> at the University of Sydney. My current topic is on synthesising strategies for games on graphs. Previously, I studied model comparison games and the expressive completeness of temporal and epistemic logics under <a
                 href="https://www.unsw.edu.au/staff/paul-hunter"
                 class="text-accent hover:underline transition-colors"
             >Paul Hunter</a> at the University of New South Wales. In general, my research interests are topics about logic in computer science.

@@ -7,7 +7,7 @@
 	<title>Ronald Chiang</title>
 	<meta
 		name="description"
-		content="Ronald Chiang — research in logic and theoretical computer science, formal verification, and model comparison games."
+		content="Ronald Chiang — research in logic and theoretical computer science."
 	/>
 </svelte:head>
 
