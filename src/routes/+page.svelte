@@ -6,7 +6,39 @@
     import Publications from "../sections/Publications.svelte";
     import Teaching from "../sections/Teaching.svelte";
     import Section from "$lib/Section.svelte";
+
+    const jsonLd = {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        name: "Ronald Chiang",
+        url: "https://ronaldchia.ng/",
+        email: "mailto:ronald.chiang@sydney.edu.au",
+        jobTitle: "MPhil Researcher",
+        description:
+            "Researcher in logic and theoretical computer science, working on model comparison games and strategy synthesis for games on graphs.",
+        affiliation: {
+            "@type": "CollegeOrUniversity",
+            name: "University of Sydney",
+        },
+        alumniOf: {
+            "@type": "CollegeOrUniversity",
+            name: "University of New South Wales",
+        },
+        sameAs: ["https://orcid.org/0009-0007-7139-7796"],
+        knowsAbout: [
+            "Logic in Computer Science",
+            "Model Comparison Games",
+            "Temporal Logic",
+            "Epistemic Logic",
+            "Games on Graphs",
+            "Strategy Synthesis",
+        ],
+    };
 </script>
+
+<svelte:head>
+    {@html `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`}
+</svelte:head>
 
 <div class="flex flex-col w-full">
     <Header />
