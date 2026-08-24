@@ -11,9 +11,15 @@
             <SectionHeading title="Teaching" />
         </div>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
-        <UNSWcse />
-        <UNSWmath />
-        <USydcse />
+    <div class="max-w-2xl mx-auto w-full columns-1 md:columns-2 gap-4">
+        <div class="break-inside-avoid mb-4">
+            <UNSWcse />
+        </div>
+        <div class="break-inside-avoid mb-4">
+            <UNSWmath />
+        </div>
+        <div class="break-inside-avoid mb-4">
+            <USydcse />
+        </div>
     </div>
 </div>
