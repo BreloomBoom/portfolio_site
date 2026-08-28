@@ -6,17 +6,17 @@
         {
             title: "Master of Philosophy in Engineering",
             subtitle: "University of Sydney",
-            date: "July 2026 -– Present",
+            date: "July 2026 to Present",
         },
         {
             title: "Bachelor of Science with Honours in Pure Mathematics",
             subtitle: "University of New South Wales",
-            date: "February 2025 -- December 2025",
+            date: "February 2025 to December 2025",
         },
         {
             title: "Bachelor of Science with Distinction in Mathematics",
             subtitle: "University of New South Wales",
-            date: "February 2022 –- December 2024",
+            date: "February 2022 to December 2024",
         },
     ];
 </script>

@@ -5,7 +5,7 @@
     import SectionHeading from "$lib/SectionHeading.svelte";
 </script>
 
-<div class="flex flex-col gap-8">
+<div class="flex flex-col gap-6">
     <div class="relative left-1/2 w-screen -translate-x-1/2">
         <div class="max-w-3xl mx-auto px-6">
             <SectionHeading title="Teaching" />

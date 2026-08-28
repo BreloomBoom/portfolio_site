@@ -3,6 +3,6 @@
     export let maxWidth = "max-w-3xl";
 </script>
 
-<section {id} class="w-full {maxWidth} mx-auto px-6">
+<section {id} class="w-full {maxWidth} mx-auto px-6 scroll-mt-16">
     <slot />
 </section>

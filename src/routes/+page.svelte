@@ -46,7 +46,7 @@
     <div class="flex flex-col gap-16 pb-24">
         <Hero />
 
-        <Section id="research">
+        <Section>
             <div class="flex flex-col gap-12">
                 <Education />
                 <ResearchExperience />
