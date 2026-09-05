@@ -1,16 +1,5 @@
-# ronaldchia.ng
+# [ronaldchia.ng](https://ronaldchia.ng).
 
-Personal portfolio site, built with SvelteKit and Tailwind CSS. Deployed on Cloudflare Pages at [ronaldchia.ng](https://ronaldchia.ng).
+Personal site that contains details about my teaching and research :)
 
-## Developing
-
-```sh
-npm install
-npm run dev
-```
-
-## Building
-
-```sh
-npm run build
-```
+Favicon by the talented [@beepop_uwu](https://www.instagram.com/beepop_uwu/) on Instagram.
