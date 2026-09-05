@@ -1,4 +1,4 @@
-# [ronaldchia.ng](https://ronaldchia.ng).
+# [ronaldchia.ng](https://ronaldchia.ng)
 
 Personal site that contains details about my teaching and research :)
 
