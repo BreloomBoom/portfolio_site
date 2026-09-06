@@ -7,7 +7,7 @@
 	<title>Ronald Chiang - Computer Science</title>
 	<meta
 		name="description"
-		content="Ronald Chiang is an MPhil researcher at the University of Sydney working on logic and theoretical computer science, including model comparison games and strategy synthesis for games on graphs."
+		content="Ronald Chiang is an MPhil student at the University of Sydney working on logic and theoretical computer science, including model comparison games and strategy synthesis for games on graphs."
 	/>
 	<link rel="canonical" href="https://ronaldchia.ng/" />
 
