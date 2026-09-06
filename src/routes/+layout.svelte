@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Ronald Chiang | Logic & Theoretical Computer Science</title>
+	<title>Ronald Chiang - Computer Science</title>
 	<meta
 		name="description"
 		content="Ronald Chiang is an MPhil researcher at the University of Sydney working on logic and theoretical computer science, including model comparison games and strategy synthesis for games on graphs."
