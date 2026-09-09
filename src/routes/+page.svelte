@@ -3,6 +3,7 @@
     import Hero from "../sections/Hero.svelte";
     import ResearchExperience from "../sections/ResearchExperience.svelte";
     import Education from "../sections/Education.svelte";
+    import Theses from "../sections/Theses.svelte";
     import Publications from "../sections/Publications.svelte";
     import Teaching from "../sections/Teaching.svelte";
     import Section from "$lib/Section.svelte";
@@ -51,6 +52,10 @@
                 <Education />
                 <ResearchExperience />
             </div>
+        </Section>
+
+        <Section id="theses">
+            <Theses />
         </Section>
 
         <Section id="publications">

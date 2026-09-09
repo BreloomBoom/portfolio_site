@@ -14,7 +14,7 @@
     }
 </script>
 
-<section id="about" class="w-full scroll-mt-16">
+<section id="about" class="w-full scroll-mt-28">
     <div class="max-w-3xl mx-auto px-6 pt-16 md:pt-20 flex flex-col gap-6">
         <h1 class="text-5xl md:text-6xl font-semibold tracking-tight leading-[1.05]">
             hi! im ronald

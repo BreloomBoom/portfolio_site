@@ -1,8 +1,7 @@
 <script>
     const links = [
         { label: "About", href: "#about" },
-        { label: "Research", href: "#research" },
-        { label: "Publications", href: "#publications" },
+        { label: "Publications", href: "#theses" },
         { label: "Teaching", href: "#teaching" },
         { label: "CV", href: "/CV.pdf" },
     ];

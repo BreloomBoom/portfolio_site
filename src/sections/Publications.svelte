@@ -7,12 +7,6 @@
             authors: "Ronald Chiang, Paul Hunter",
             status: "Manuscript under review",
         },
-        {
-            title: "Ehrenfeucht-Fraïssé Games for Temporal (and) Epistemic Logics",
-            authors: "Ronald Chiang",
-            status: "BSc (Honours) Thesis",
-            link: "/Honours-Thesis.pdf",
-        },
     ];
 </script>
 

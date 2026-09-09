@@ -24,7 +24,7 @@
     ];
 </script>
 
-<div id="research" class="flex flex-col gap-6 scroll-mt-16">
+<div id="research" class="flex flex-col gap-6 scroll-mt-28">
     <SectionHeading title="Research Experience" />
     <Timeline items={items} />
 </div>
