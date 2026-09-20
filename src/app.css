@@ -20,15 +20,6 @@
         @apply bg-bg text-text min-h-screen font-inter;
     }
 
-    body {
-        background-image: radial-gradient(
-            60% 32rem at 50% -8rem,
-            color-mix(in srgb, var(--color-accent) 10%, transparent),
-            transparent
-        );
-        background-repeat: no-repeat;
-    }
-
     ::selection {
         background-color: var(--color-accent);
         color: var(--color-bg);
