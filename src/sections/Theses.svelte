@@ -6,7 +6,7 @@
             title: "Ehrenfeucht-Fraïssé Games for Temporal (and) Epistemic Logics",
             authors: "Ronald Chiang",
             status: "BSc (Honours) Thesis",
-            link: "/Honours-Thesis.pdf",
+            link: "/Honours_Thesis.pdf",
         },
     ];
 </script>
