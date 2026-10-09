@@ -14,9 +14,9 @@
         name: "Ronald Chiang",
         url: "https://ronaldchia.ng/",
         email: "mailto:ronald.chiang@sydney.edu.au",
-        jobTitle: "MPhil Researcher",
+        jobTitle: "MPhil Student",
         description:
-            "Researcher in logic and theoretical computer science, working on model comparison games and strategy synthesis for games on graphs.",
+            "Researcher in logic and theoretical computer science working on strategy synthesis for games on graphs.",
         affiliation: {
             "@type": "CollegeOrUniversity",
             name: "University of Sydney",
